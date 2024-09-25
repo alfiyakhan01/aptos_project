@@ -1,27 +1,27 @@
-# TipJar Smart Contract
+# RewardSystem Smart Contract
 
 ## Vision
 
-The **TipJar** smart contract enables a decentralized and transparent way for users to send tips to a specified account on the Aptos blockchain. This contract allows users to show appreciation through financial contributions without intermediaries, promoting direct peer-to-peer support.
+The **RewardSystem** smart contract provides a decentralized platform for rewarding users with tokens. This contract is designed to promote community engagement and incentivize positive actions within a blockchain ecosystem by facilitating easy and transparent token transfers as rewards.
 
 ## Features
 
-- **Send Tips**:
-  - Users can send tips in the form of AptosCoin to any recipient address.
-- **Check Balance**:
-  - The balance of the recipient's tip jar can be checked, providing transparency over the amount received.
+- **Reward Users**:
+  - Allows users to transfer tokens (AptosCoin) to others as a form of reward.
+- **Balance Checking**:
+  - Users can check the token balance of any account, enabling transparency of rewards received.
 
 ## Future Scope
 
-1. **Multi-Asset Support**:
+1. **Automated Rewards**:
 
-   - Extend functionality to support multiple coin types, allowing users to send tips in various cryptocurrencies.
+   - Implement an automated reward system based on predefined conditions or actions, such as milestones or community contributions.
 
-2. **Tip Notifications**:
+2. **Multi-Token Support**:
 
-   - Add functionality to notify recipients when they receive a tip.
+   - Extend functionality to support rewards in multiple cryptocurrencies or tokens.
 
-3. **Tipping History**:
-   - Implement a feature to track and display historical tip transactions for transparency and accountability.
+3. **Reward Tracking**:
+   - Add functionality to track and log all rewards given, enabling transparency and performance-based reward systems.
 
-The **TipJar** smart contract creates a simple, decentralized tipping system, enabling users to show support in a secure and transparent manner.
+The **RewardSystem** contract creates a simple and efficient way to incentivize users by distributing rewards, fostering engagement and productivity in decentralized ecosystems.
